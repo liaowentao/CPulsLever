@@ -1,0 +1,6 @@
+﻿  structur.cpp
+f:\cprimerlever\chapter2\chapter2\structur\structur.cpp(19): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\cprimerlever\chapter2\chapter2\structur\structur.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+f:\cprimerlever\chapter2\chapter2\structur\structur.cpp(24): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\cprimerlever\chapter2\chapter2\structur\structur.cpp(24): warning C4305: “初始化”: 从“double”到“float”截断
+  structur.vcxproj -> F:\cPrimerLever\Chapter2\Chapter2\Debug\structur.exe
